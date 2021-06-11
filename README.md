@@ -6,7 +6,7 @@ An PHP implementation of Caesar Cipher
 
 ## Requirements
 
-- php 7 or above
+- php 7.3 or above
 
 ## Quick Start
 ```php
